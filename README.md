@@ -1,6 +1,6 @@
 # zapworksStudio_tutorials
 
-Here are some guidelines designed to make it easier to build Studio projects which are error resistant, validated at design time, reusable and is easy to understand by others.
+Here are some guidelines designed to make it easier to build Zapworks Studio projects which are error resistant, validated at design time, reusable and is easy to understand by others.
 
 Endeavour to split development time like this:
 Structural design time > Implementation time > Bug fixing time
