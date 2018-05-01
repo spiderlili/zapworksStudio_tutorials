@@ -1,3 +1,6 @@
+//create a content group > snapshot resizer group with a snapshot plane inside
+//make 3 states: normal(default), photo taken and fullscreen
+
 let state = 0;
 let dataTexture = Z.DataTexture();
 
